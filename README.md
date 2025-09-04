@@ -25,13 +25,6 @@ This project automates **business analyst workflows** by transforming meeting tr
 
 ---
 
-## ⚙️ Setup Instructions  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/your-username/be-automation-analysis.git
-cd be-automation
-
 
 https://github.com/user-attachments/assets/6e3dce24-ac69-4c88-b1e5-28ed7096c9b0
 
